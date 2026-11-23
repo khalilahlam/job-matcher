@@ -1,0 +1,5 @@
+.env
+.venv/
+cv/
+perfil.json
+__pycache__/
